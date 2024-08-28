@@ -26,4 +26,4 @@
     </ul>
   </li>
 </ul>
-<p>Overall, this project demonstrates a thorough understanding of data processing, visualization, and insights generation. It’s an example of leveraging tools like Power Query and Power BI to extract meaningful information from large datasets</p>
+<p>Overall, this project demonstrates a thorough understanding of data processing, visualization, and insights generation. It’s an example of leveraging tools like Power Query and Power BI to extract meaningful information from large datasets.</p>
